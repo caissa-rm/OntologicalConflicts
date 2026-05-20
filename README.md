@@ -22,4 +22,3 @@ Anonymized data from the Indigenous Matsigenka communities (in the files ``ranki
 7.	Run the parts of `` RunAllRankings.R`` in order in R.
 8.	Figures in the manuscript will appear in the Plots folder.
 
-<img width="451" height="542" alt="image" src="https://github.com/user-attachments/assets/88a49042-c927-4541-a9d7-4631a8e577a4" />
